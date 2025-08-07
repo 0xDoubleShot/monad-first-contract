@@ -16,9 +16,9 @@ function setMessage(string memory newMessage) public;
 
 ✅ Wallet: MetaMask (with custom Monad RPC)
 
-✅ Contract Address: 0x... (replace with your address)
+✅ Contract Address: 0xb0ee89b62dc47855c005a0bd068164698d9d3de3
 
-✅ Transaction Hash: 0x... (replace with your tx hash)
+✅ Transaction Hash: 0xd05e64b407ac1048fbcc473840b18cb177a01526be3ff337585139ad0a75545e
 
 🧪 Functions
 message() → Get the current message
