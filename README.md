@@ -23,7 +23,7 @@ function setMessage(string memory newMessage) public;
 🧪 Functions
 message() → Get the current message
 
-setMessage("Your Text") → Update the message
+setMessage("HelloMonad") → Update the message
 
 🧠 Why?
 This is a minimal first step to get familiar with Monad’s EVM-compatible environment and testnet deployment process.
